@@ -1,0 +1,8 @@
+{
+  "name": "Pyaar ka Mehfil",
+  "description": "A nostalgic foreign ambient radio experience inspired by modern cafe aesthetics with vintage vinyl hiss, live listener badge, and interactive music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
